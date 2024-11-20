@@ -15,20 +15,28 @@ A simple command-line tool to generate multiple wallet addresses for different b
 ## Installation
 
 1. Clone the repository:
-```git clone https://github.com/Rambeboy/blockchain-address-generator.git```
+   ```bash
+   git clone https://github.com/Rambeboy/blockchain-address-generator.git
+   ```
 
-2. Navigate to the project directory:
-```cd blockchain-address-generator```
+3. Navigate to the project directory:
+   ```bash
+   cd blockchain-address-generator
+   ```
 
-3. Install dependencies:
-```npm install```
+5. Install dependencies:
+   ```bash
+   npm install
+   ```
 
 ## Usage
 
 1. Start the application:
-```npm start```
+   ```bash
+   npm start
+   ```
 
-2. Follow the interactive prompts:
+3. Follow the interactive prompts:
 - Enter the number of wallets you want to generate
 - Select the blockchain network
 - View the generated wallets
